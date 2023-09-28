@@ -4,4 +4,4 @@ Data de Pouso na Lua: A nave espacial pousou na superfície lunar em 20 de julho
 
 Duração da Missão: A duração total da missão Apollo 11, desde o lançamento até o retorno à Terra, foi de aproximadamente 8 dias. A cápsula espacial retornou com sucesso à Terra em 24 de julho de 1969.
 
-indo pra Plutão
+indo pra Saturno
